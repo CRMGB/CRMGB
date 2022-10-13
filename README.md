@@ -119,6 +119,15 @@
         style="padding-right: 10px"
     />
   </a>
+  </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+        alt="GitHub"
+        width="45px"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+        style="padding-right: 10px"
+    />
+  </a>  
 </p>
 
 <details>
