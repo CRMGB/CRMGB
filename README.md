@@ -1,4 +1,4 @@
-![logo](https://github.com/CRMGB/CRMGB/blob/main/media/CRMGimg.png)
+![logo](https://github.com/CRMGB/CRMGB/blob/main/media/CRMGimgBanner.png)
 <h1 align="center"> Hi everyone! I'm Cristian, a python software developer always keen to learn 😊 </h1>
 
 <p align="left">
